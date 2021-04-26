@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal 
+title: Yu-Shiang Wong
+description: >
+    Ph.D. student at Smart Geometry Group, Unervisity College London (UCL).  
+    
+description2: >
+    My research interests include Neural representation, 3D/4D reconstruction, and developing interactive grapics systems.
+    
+google_analytics: G-SNM63CV423
+show_downloads: false
+theme: jekyll-theme-minimal
+gems:
+  - jekyll-mentions
