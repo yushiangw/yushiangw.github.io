@@ -8,7 +8,7 @@ We introduce RigidFusion. A RGB-D reconstruction system targets on dynamic envir
 ## Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences
 #### 2021
 [[Project Website]](http://www.niessnerlab.org/projects/mueller2021completetracking.html )  
-Multi-object tracking with deep priors using RGB-D input.  
+Multi-object tracking with deep priors using RGB-D input. Our key insight is geometry completion helps tracking.
 ![seebehindobjs2021](/images/seebehindobjs2021.jpg)
 
 
