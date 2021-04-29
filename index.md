@@ -2,7 +2,7 @@
 ## RigidFusion: RGB-D Scene Reconstruction with Rigidly-moving Objects
 #### 2021
 [[Project Website]](http://geometry.cs.ucl.ac.uk/projects/2021/rigidfusion/)  
-We introduce RigidFusion. A RGB-D reconstruction system targets on dynamic environments.  
+We introduce RigidFusion. A RGB-D reconstruction system targets on dynamic environments without using object priors.
 ![rigidfusion](/images/rigidfusion.jpg) 
 
 ## Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences
