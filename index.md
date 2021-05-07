@@ -16,7 +16,7 @@ Multi-object tracking with deep priors using RGB-D input. Our key insight is geo
 #### 2017
 [[Paper]]( https://www.ijcai.org/proceedings/2017/775)  
 A goal-oriented meaning-based statistical framework is presented to solve the math word problem. Our system is able to generate a reasonable explanation. 
-![img](/images/mwp17.jpg)  
+![img](/images/mwp17_2.jpg)  
  
 ## SmartAnnotator: Annotating Indoor RGBD Images
 #### 2015
