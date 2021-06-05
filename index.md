@@ -2,12 +2,14 @@
 ## RigidFusion: RGB-D Scene Reconstruction with Rigidly-moving Objects
 #### 2021
 [[Project Website]](http://geometry.cs.ucl.ac.uk/projects/2021/rigidfusion/)  
+[[Youtube]](https://www.youtube.com/watch?v=ROtMZQlaGiI)  
 We introduce RigidFusion. A RGB-D reconstruction system targets on dynamic environments without using object priors.
 ![rigidfusion](/images/rigidfusion.jpg) 
 
 ## Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences
 #### 2021
 [[Project Website]](http://www.niessnerlab.org/projects/mueller2021completetracking.html )  
+[[Youtube]](https://www.youtube.com/watch?v=F2zs9AMRxeg)  
 Multi-object tracking with deep priors using RGB-D input. Our key insight is geometry completion helps tracking.
 ![seebehindobjs2021](/images/seebehindobjs2021.jpg)
 
@@ -21,6 +23,7 @@ A goal-oriented meaning-based statistical framework is presented to solve the ma
 ## SmartAnnotator: Annotating Indoor RGBD Images
 #### 2015
 [[Project Website]](http://geometry.cs.ucl.ac.uk/projects/2015/smart-annotator/)  
+[[Youtube]](https://www.youtube.com/watch?v=TbdsUGWrfpo)  
 We present SMARTANNOTATOR, an interactive system to facilitate annotating raw RGBD images. The system performs the tedious tasks and iteratively refines users' annotations.  
 ![sanno](/images/sanno.jpg)
 
