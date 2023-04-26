@@ -1,0 +1,95 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header { 
+  width:300px; 
+}
+
+section {
+  width:600px; 
+  float:right; 
+  margin-left: 5px; 
+  padding-bottom:50px;
+  font-size:15px; 
+}
+
+.wrapper2 {
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wrapper {
+  width: 950px;  
+  justify-content: center;  
+  overflow-x: auto 
+}
+
+.ab { 
+  padding: 0px 2px;
+  width: 308px; 
+  font-size:13px;
+  text-align: left; 
+  font-family: 'Open Sans', sans-serif; 
+}
+
+pre {
+  padding:0px ;
+  background: none; 
+  border:0px ;
+  overflow-x: visible;
+  overflow-y: visible;
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+.ratio {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 0;
+    padding-bottom: 100%;
+    position: relative;
+    width: 100%;
+}
+
+.headwrapper {
+  width:310px; 
+    align:center
+}
+
+.round {
+    width: 120px;
+	border: 1px solid #888888;
+	border-radius: 50%;
+	padding: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+socialwrapper{
+  padding: 20px 2px;
+}
+
+.ir {
+  display: block;
+  position: relative;
+  overflow: visible;
+}
+
+
+a.icon:hover{ 
+  height: 50px;
+  width:  50px;
+  fill: #e1b189;
+  transition-timing-function: ease-out;
+  transition: background-color 0.5s,
+}
+
+
