@@ -9,7 +9,7 @@ We introduce a novel representation for reconstructing dynamic environments usin
 
 ## PhD
 #### 2023 
-I have successfully defended my PhD with the thesis title **_Dynamic Scene Reconstruction and Understanding_**!  
+I have successfully defended my PhD with the thesis title [_Dynamic Scene Reconstruction and Understanding_](https://discovery.ucl.ac.uk/id/eprint/10169165/)!  
   
 ---
 
