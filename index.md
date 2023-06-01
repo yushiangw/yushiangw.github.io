@@ -1,5 +1,5 @@
-## Dynamic Scene Representation
-#### 2023 
+## Factored Neural Representation for Scene Understanding
+#### SGP 2023 (Conditionally accept) 
 [[Project Website]](https://yushiangw.github.io/factorednerf/)  
 [[Arxiv]](https://arxiv.org/abs/2304.10950)  
 We introduce a novel representation for reconstructing dynamic environments using monocular RGB-D input.
@@ -15,7 +15,7 @@ I have successfully defended my PhD with the thesis title [_Dynamic Scene Recons
 
 
 ## RigidFusion: RGB-D Scene Reconstruction with Rigidly-moving Objects
-#### 2021
+#### Eurographics 2021
 [[Project Website]](http://geometry.cs.ucl.ac.uk/projects/2021/rigidfusion/)  
 [[Youtube]](https://www.youtube.com/watch?v=ROtMZQlaGiI)  
 We introduce RigidFusion. An RGB-D reconstruction system targets dynamic environments without using object priors.
@@ -24,7 +24,7 @@ We introduce RigidFusion. An RGB-D reconstruction system targets dynamic environ
 ---
 
 ## Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences
-#### 2021
+#### CVPR 2021
 [[Project Website]](http://www.niessnerlab.org/projects/mueller2021completetracking.html )  
 [[Youtube]](https://www.youtube.com/watch?v=F2zs9AMRxeg)  
 Multi-object tracking with deep priors using RGB-D input. Our key insight is geometry completion helps tracking.
@@ -33,7 +33,7 @@ Multi-object tracking with deep priors using RGB-D input. Our key insight is geo
 ---
 
 ## Meaning-based Statistical Math Word Problem Solver
-#### 2017
+#### IJCAI 2017
 [[Paper]]( https://www.ijcai.org/proceedings/2017/775)  
 A goal-oriented meaning-based statistical framework is presented to solve the math word problem. Our system is able to generate a reasonable explanation. 
 ![img](/images/mwp17_2.jpg)  
@@ -41,7 +41,7 @@ A goal-oriented meaning-based statistical framework is presented to solve the ma
 ---
  
 ## SmartAnnotator: Annotating Indoor RGBD Images
-#### 2015
+#### Eurographics 2015
 [[Project Website]](http://geometry.cs.ucl.ac.uk/projects/2015/smart-annotator/)  
 [[Youtube]](https://www.youtube.com/watch?v=TbdsUGWrfpo)  
 We present SMARTANNOTATOR, an interactive system to facilitate annotating raw RGBD images. The system performs tedious tasks and iteratively refines user annotations.  
