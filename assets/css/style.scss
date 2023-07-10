@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 
 header { 
-  width:300px; 
+  /* width:300px; */
 }
 
 section {
-  width:600px; 
+  /* width:600px; */
   float:right; 
   margin-left: 5px; 
   padding-bottom:50px;
@@ -21,7 +21,7 @@ section {
 }
 
 .wrapper {
-  width: 950px;  
+  /* width: 950px;  */
   justify-content: center;  
   overflow-x: auto 
 }
