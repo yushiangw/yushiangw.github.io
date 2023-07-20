@@ -1,5 +1,5 @@
 ## Factored Neural Representation for Scene Understanding
-#### SGP 2023 (Conditionally accept) 
+#### Symposium on Geometry Processing 2023
 [[Project Website]](https://yushiangw.github.io/factorednerf/)  
 [[Arxiv]](https://arxiv.org/abs/2304.10950)  
 We introduce a novel representation for reconstructing dynamic environments using monocular RGB-D input.

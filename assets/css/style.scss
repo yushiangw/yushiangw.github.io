@@ -74,7 +74,7 @@ pre {
 }
 
 socialwrapper{
-  padding: 20px 2px;
+  padding: 20px 2px; 
 }
 
 .ir {
@@ -84,12 +84,15 @@ socialwrapper{
 }
 
 
-a.icon:hover{ 
-  height: 50px;
-  width:  50px;
-  fill: #e1b189;
-  transition-timing-function: ease-out;
-  transition: background-color 0.5s,
+.icon{ 
+    padding: 6px;
 }
 
+a.icon:hover{ 
+  height: 40px;
+  width:  40px;
+  fill: #e1b189;
+  transition-timing-function: ease-out;
+  transition: background-color 0.5s,  
+}
 
