@@ -1,3 +1,10 @@
+---
+
+## Deep Learning RnD Engineer
+#### 2023.10 
+I joined Nvidia Taipei as a Deep Learning RnD engineer and work on 3D scene understanding technology.
+  
+---
 ## Factored Neural Representation for Scene Understanding
 #### Symposium on Geometry Processing 2023
 [[Project Website]](https://yushiangw.github.io/factorednerf/)  
