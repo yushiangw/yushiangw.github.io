@@ -1,8 +1,6 @@
----
-
 ## Deep Learning RnD Engineer
 #### 2023.10 
-I joined Nvidia Taipei as a Deep Learning RnD engineer and work on 3D scene understanding technology.
+I joined NVIDIA as a Deep Learning RnD engineer in Taipei and work on 3D scene understanding technology.
   
 ---
 ## Factored Neural Representation for Scene Understanding
